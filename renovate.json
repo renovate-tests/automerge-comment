@@ -1,0 +1,6 @@
+{
+  "requiredStatusChecks": null,
+  "automerge": true,
+  "automergeType": "pr-comment",
+  "automergeComment": "!merge"
+}
